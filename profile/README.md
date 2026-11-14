@@ -20,3 +20,12 @@ The list shows where components live in a local FullMeta workspace. Application 
   - `projects/` — user project files
 
 FEM and Raytracing are developed in their separate repositories linked in the folder list. Each application package belongs in its corresponding folder under `applications/` in a FullMeta workspace; the root `catalog.json` identifies it to FullMeta. `projects/` holds user data. The repositories are maintained separately under the existing GitHub account.
+
+## Developers
+
+Thank you to the developers working on FullMeta.
+
+- **Platform:** [@gbaswfm2021](https://github.com/gbaswfm2021)
+- **FEM:** [@yuee2026-beep](https://github.com/yuee2026-beep)
+- **Raytracing:** [@arminhgh](https://github.com/arminhgh)
+
