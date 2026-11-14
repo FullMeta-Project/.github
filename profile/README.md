@@ -12,22 +12,19 @@ FullMeta is a workspace for application documents and simulation tools.
 
 The linked repositories are maintained separately under the existing GitHub account.
 
-
 ## Workspace folders
 
-The diagram shows where components live in a local FullMeta workspace. Application folders are present when those applications are installed.
+The list shows where components live in a local FullMeta workspace. Application folders are present when those applications are installed. Click an application folder to open its development repository.
 
-```text
-FullMeta/                         workspace root
-├── index.html                    workspace entry
-├── index.json                    workspace document
-├── platform/                     shared platform and workspace
-├── applications/                 application packages
-│   ├── fem/                      FEM application
-│   │   └── catalog.json          FEM descriptor
-│   └── raytracing/               Raytracing application
-│       └── catalog.json          Raytracing descriptor
-└── projects/                     user project files
-```
+- `FullMeta/` — workspace root
+  - `index.html` — workspace entry
+  - `index.json` — workspace document
+  - `platform/` — shared platform and workspace
+  - `applications/` — application packages
+    - [`fem/`](https://github.com/gbaswfm2021/fem) — FEM application
+      - `catalog.json` — FEM descriptor
+    - [`raytracing/`](https://github.com/gbaswfm2021/raytracing) — Raytracing application
+      - `catalog.json` — Raytracing descriptor
+  - `projects/` — user project files
 
 FEM and Raytracing are developed in their separate repositories linked above. Each application package belongs in its corresponding folder under `applications/` in a FullMeta workspace; the root `catalog.json` identifies it to FullMeta. `projects/` holds user data.
