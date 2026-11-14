@@ -19,7 +19,7 @@ The list shows where components live in a local FullMeta workspace. Application 
 - `FullMeta/` — workspace root
   - `index.html` — workspace entry
   - `index.json` — workspace document
-  - `platform/` — shared platform and workspace
+  - [`platform/`](https://github.com/search?q=user%3Agbaswfm2021+topic%3Afullmeta+is%3Aprivate&type=repositories) — shared platform and workspace; link searches private repositories you can access
   - `applications/` — application packages
     - [`fem/`](https://github.com/gbaswfm2021/fem) — FEM application
       - `catalog.json` — FEM descriptor
