@@ -1,4 +1,4 @@
-# FullMeta ecosystem
+# FullMeta
 
 FullMeta is a workspace for application documents and simulation tools.
 
