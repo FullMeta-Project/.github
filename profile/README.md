@@ -25,7 +25,7 @@ FEM and Raytracing are developed in their separate repositories linked in the fo
 
 Thank you to the developers working on FullMeta.
 
-- **Platform:** [@gbaswfm2021](https://github.com/gbaswfm2021)
-- **FEM:** [@yuee2026-beep](https://github.com/yuee2026-beep)
+- **Platform:** [@gbaswfm2021](https://github.com/gbaswfm2021) — Jensen Li
+- **FEM:** [@yuee2026-beep](https://github.com/yuee2026-beep) — Yuee Li
 - **Raytracing:** [@arminhgh](https://github.com/arminhgh)
 
