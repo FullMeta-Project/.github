@@ -21,7 +21,7 @@ The list shows where components live in a local FullMeta workspace. Application 
       - `catalog.json` — Gerchberg–Saxton descriptor
   - `projects/` — user project files
 
-FEM, Raytracing, and Gerchberg–Saxton are developed in their separate repositories linked in the folder list. Each application package belongs in its corresponding folder under `applications/` in a FullMeta workspace; the root `catalog.json` identifies it to FullMeta. `projects/` holds user data. The repositories are maintained separately.
+Application repositories are linked in the folder list. Each application package belongs in its corresponding folder under `applications/` in a FullMeta workspace; the root `catalog.json` identifies it to FullMeta. `projects/` holds user data. The repositories are maintained separately.
 
 ## Developers
 
