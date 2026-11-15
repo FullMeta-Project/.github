@@ -17,9 +17,11 @@ The list shows where components live in a local FullMeta workspace. Application 
       - `catalog.json` — FEM descriptor
     - [`raytracing/`](https://github.com/gbaswfm2021/raytracing) — Raytracing application
       - `catalog.json` — Raytracing descriptor
+    - [`gerchbergsaxton/`](https://github.com/FullMeta-Project/gerchbergsaxton) — Gerchberg–Saxton hologram application
+      - `catalog.json` — Gerchberg–Saxton descriptor
   - `projects/` — user project files
 
-FEM and Raytracing are developed in their separate repositories linked in the folder list. Each application package belongs in its corresponding folder under `applications/` in a FullMeta workspace; the root `catalog.json` identifies it to FullMeta. `projects/` holds user data. The repositories are maintained separately under the existing GitHub account.
+FEM, Raytracing, and Gerchberg–Saxton are developed in their separate repositories linked in the folder list. Each application package belongs in its corresponding folder under `applications/` in a FullMeta workspace; the root `catalog.json` identifies it to FullMeta. `projects/` holds user data. The repositories are maintained separately.
 
 ## Developers
 
@@ -31,3 +33,5 @@ Thank you to the developers working on FullMeta.
   Jensen Li, Yuee Li
 - **Raytracing:** [@arminhgh](https://github.com/arminhgh)  
   Armin Hosseinghorbani
+- **Gerchberg–Saxton:** [@gbaswfm2021](https://github.com/gbaswfm2021)  
+  Jensen Li
